@@ -7,3 +7,4 @@ flask-restful
 flask-apispec
 apispec
 marshmallow
+gunicorn
